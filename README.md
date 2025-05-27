@@ -29,9 +29,6 @@ For other required packages refere to requirement.txt file
 pip install "git+git://github.com/erikwijmans/Pointnet2_PyTorch.git#egg=pointnet2_ops&subdirectory=pointnet2_ops_lib"
 ```
 
-## RUN Model
-
-
 ## Dataset Download and Preprocessing
 
 ### Dataset
@@ -50,3 +47,13 @@ To run the preprocessing for background removal and resizing, run the following 
 python preprocess/preprocessing_mvtec3d.py
 ```
 
+
+## RUN MODEL
+# Training
+```bash
+python train.py
+```
+# Test
+```bash
+python train.py
+```
