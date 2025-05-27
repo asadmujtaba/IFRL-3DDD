@@ -4,7 +4,7 @@
 
 This repository contains the official source code for **Inter-Modality Feature Representation Learning-based Fusion Network for 3D Shape Defect Detection**.
 
-##ABSTRACT##
+## ABSTRACT
 This paper presented a novel framework for defect detection in 3D shapes, addressing a gap in existing research that mainly focuses on 2D-based methods. We proposed an inter-modality feature representation learning and fusion based framework, combining RGB images, depth images, and point clouds to enhance defect detection in industrial manufacturing contexts. Our proposed framework consists of three key components: pre-trained feature extractors, the multi-level Adaptive Dual Modal Gated Fusion (ADMGF) module, and the inter-modality feature representation network. The design facilitates precise localization of anomalous regions by generating a combined anomaly map based on discrepancies between extracted and predicted multimodal representations. Experiments on the MVTec3D-AD and Eyecandies datasets showed significant improvements in performance over state-of-the-art methods.
 
 ## Requirement
