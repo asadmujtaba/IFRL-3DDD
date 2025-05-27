@@ -22,7 +22,7 @@ This paper presented a novel framework for defect detection in 3D shapes, addres
 - numpy
 - opencv-python
 
-Other required package(s) can be installed via:
+For other required packages refere to requirement.txt file 
 
 ### Install pointnet2_ops_lib
 ```bash
